@@ -1,0 +1,110 @@
+23-02-2014 18:07:46 PM	::1	Array
+(
+    [edicion] => ok
+    [programa] => FORTA
+    [id] => 67
+    [nombre] => OAXACA DE JUAREZ
+    [cuenta_ant] => 072610002132183282
+    [cuenta] => 
+)
+
+23-02-2014 18:08:31 PM	::1	Array
+(
+    [edicion] => Sin Afectacion
+    [programa] => FORTA
+    [id] => 67
+    [nombre] => OAXACA DE JUAREZ
+    [cuenta_ant] => 
+    [cuenta] => 
+)
+
+23-02-2014 18:10:12 PM	172.17.92.165	Array
+(
+    [edicion] => ok
+    [programa] => FORTA
+    [id] => 67
+    [nombre] => OAXACA DE JUAREZ
+    [cuenta_ant] => 
+    [cuenta] => 123456789012345678
+)
+
+23-02-2014 18:22:57 PM	172.17.92.165	Array
+(
+    [edicion] => Sin Afectacion
+    [programa] => FORTA
+    [id] => 67
+    [nombre] => OAXACA DE JUAREZ
+    [cuenta_ant] => 123456789012345678
+    [cuenta] => 123456789012345678
+)
+
+23-02-2014 18:23:09 PM	172.17.92.165	Array
+(
+    [edicion] => ok
+    [programa] => FORTA
+    [id] => 67
+    [nombre] => OAXACA DE JUAREZ
+    [cuenta_ant] => 123456789012345678
+    [cuenta] => 
+)
+
+24-02-2014 00:21:05 AM	::1	Array
+(
+    [edicion] => ok
+    [programa] => INFRA
+    [id] => 6
+    [nombre] => ASUNCION NOCHIXTLAN
+    [cuenta_ant] => 
+    [cuenta] => 123456789012345678
+)
+
+24-02-2014 00:46:06 AM	::1	Array
+(
+    [edicion] => Sin Afectacion
+    [programa] => RAMO
+    [id] => 5
+    [nombre] => MAZATLAN VILLA DE FLORES
+    [cuenta_ant] => N/A
+    [cuenta] => 
+)
+
+24-02-2014 00:46:28 AM	::1	Array
+(
+    [edicion] => Sin Afectacion
+    [programa] => RAMO
+    [id] => 45
+    [nombre] => SANTIAGO CACALOXTEPEC
+    [cuenta_ant] => N/A
+    [cuenta] => 014614655041795091
+)
+
+24-02-2014 00:46:44 AM	::1	Array
+(
+    [edicion] => Sin Afectacion
+    [programa] => RAMO
+    [id] => 45
+    [nombre] => SANTIAGO CACALOXTEPEC
+    [cuenta_ant] => N/A
+    [cuenta] => 014614655041795091
+)
+
+24-02-2014 00:47:20 AM	::1	Array
+(
+    [edicion] => ok
+    [programa] => RAMO
+    [id] => 456
+    [nombre] => SANTIAGO CACALOXTEPEC
+    [cuenta_ant] => 014614655041795091
+    [cuenta] => 014614655041795092
+)
+
+24-02-2014 00:48:21 AM	::1	Array
+(
+    [edicion] => Sin Afectacion
+    [programa] => RAMO
+    [id] => 67
+    [nombre] => OAXACA DE JUáREZ
+    [cuenta_ant] => N/A
+    [cuenta] => 072610002132183282
+)
+

@@ -1,0 +1,545 @@
+072612002135075900000000026572.25001ABEJONES                                            CLC0006HDJS                                       
+012897001948590652000000313131.25002ACATLAN DE PEREZ FIGUEROA                           CLC0006HDJS                                       
+072610002160259010000000024782.80003ASUNCION CACALOTEPEC                                CLC0006HDJS                                       
+072614002125484664000000018734.05004ASUNCION CUYOTEPEJI                                 CLC0006HDJS                                       
+014617655041727448000000151288.95005ASUNCION IXTALTEPEC                                 CLC0006HDJS                                       
+123456789123456789000000221053.35006ASUNCION NOCHIXTLAN                                 CLC0006HDJS                                       
+012622001950139331000000042233.40007ASUNCION OCOTLAN                                    CLC0006HDJS                                       
+072637002018529257000000025458.75008ASUNCION TLACOLULITA                                CLC0006HDJS                                       
+012628001949844550000000083515.75009AYOTZINTEPEC                                        CLC0006HDJS                                       
+002627700371558438000000102363.85010EL BARRIO DE LA SOLEDAD                             CLC0006HDJS                                       
+072614002126828012000000019786.80011CALIHUALA                                           CLC0006HDJS                                       
+072621002169836180000000047345.70012CANDELARIA LOXICHA                                  CLC0006HDJS                                       
+002640700675525377000000085053.00013CIENEGA DE ZIMATLAN                                 CLC0006HDJS                                       
+012616001948914147000000299861.60014CIUDAD IXTEPEC                                      CLC0006HDJS                                       
+044610092026624507000000040597.45015COATECAS ALTAS                                      CLC0006HDJS                                       
+021635040570222612000000037178.60016COICOYAN DE LAS FLORES                              CLC0006HDJS                                       
+002622700727833184000000024845.05017LA COMPANIA                                         CLC0006HDJS                                       
+012611001949434142000000022701.30018CONCEPCION BUENAVISTA                               CLC0006HDJS                                       
+072640002141849435000000023814.30019CONCEPCION PAPALO                                   CLC0006HDJS                                       
+012625001948424482000000080198.55020CONSTANCIA DEL ROSARIO                              CLC0006HDJS                                       
+014855655041715678000000101111.90021COSOLAPA                                            CLC0006HDJS                                       
+072614002125492494000000021455.80022COSOLTEPEC                                          CLC0006HDJS                                       
+072610002156639686000000156916.70023CUILAPAM DE GUERRERO                                CLC0006HDJS                                       
+072610002170230074000000097422.50024CUYAMECALCO VILLA DE ZARAGOZA                       CLC0006HDJS                                       
+002631700582228268000000114276.80025CHAHUITES                                           CLC0006HDJS                                       
+072613002153503343000000052432.60026CHALCATONGO DE HIDALGO                              CLC0006HDJS                                       
+072640002141845057000000056636.90027CHIQUIHUITLAN DE BENITO JUAREZ                      CLC0006HDJS                                       
+002622700703534216000000118500.00028HEROICA CIUDAD DE EJUTLA DE CRESPO                  CLC0006HDJS                                       
+002671700733529653000000085111.20029ELOXOCHITLAN DE FLORES MAGON                        CLC0006HDJS                                       
+014617655041582382000000062974.00030EL ESPINAL                                          CLC0006HDJS                                       
+072610002155178562000000047329.30031TAMAZULAPAM DEL ESPIRITU SANTO                      CLC0006HDJS                                       
+072614002126828928000000026509.05032FRESNILLO DE TRUJANO                                CLC0006HDJS                                       
+014610655041904080000000025895.60033GUADALUPE ETLA                                      CLC0006HDJS                                       
+072614002126825484000000029770.20034GUADALUPE DE RAMIREZ                                CLC0006HDJS                                       
+072612002095178824000000023899.95035GUELATAO DE JUAREZ                                  CLC0006HDJS                                       
+072610002179845460000000031313.30036GUEVEA DE HUMBOLDT                                  CLC0006HDJS                                       
+012625001949442913000000027939.90037MESONES HIDALGO                                     CLC0006HDJS                                       
+072610002174383024000000033826.70038VILLA HIDALGO                                       CLC0006HDJS                                       
+072614002125484486000001139513.60039HEROICA CIUDAD DE HUAJUAPAN DE LEON                 CLC0006HDJS                                       
+002671700707396485000000032503.40040HUAUTEPEC                                           CLC0006HDJS                                       
+002671700720023913000000335028.65041HUAUTLA DE JIMENEZ                                  CLC0006HDJS                                       
+072612002129594002000000059566.05042IXTLAN DE JUAREZ                                    CLC0006HDJS                                       
+072617002140059631000000958795.60043HEROICA CIUDAD DE JUCHITAN DE ZARAGOZA              CLC0006HDJS                                       
+021628040570221471000000657676.45044LOMA BONITA                                         CLC0006HDJS                                       
+072610002152082114000000105737.65045MAGDALENA APASCO                                    CLC0006HDJS                                       
+012611001950269898000000053941.60046MAGDALENA JALTEPEC                                  CLC0006HDJS                                       
+012611001949399805000000014933.10047SANTA MAGDALENA JICOTLAN                            CLC0006HDJS                                       
+072610008991411018000000028305.50048MAGDALENA MIXTEPEC                                  CLC0006HDJS                                       
+002622700084351600000000022271.65049MAGDALENA OCOTLAN                                   CLC0006HDJS                                       
+072613002152105315000000038794.80050MAGDALENA PENASCO                                   CLC0006HDJS                                       
+002638700614547975000000045394.75051MAGDALENA TEITIPAC                                  CLC0006HDJS                                       
+002637700414144621000000058046.50052MAGDALENA TEQUISISTLAN                              CLC0006HDJS                                       
+072617002154763463000000087888.40053MAGDALENA TLACOTEPEC                                CLC0006HDJS                                       
+002610700774709891000000020556.65054MAGDALENA ZAHUATLAN                                 CLC0006HDJS                                       
+072614002125493244000000049456.25055MARISCALA DE JUAREZ                                 CLC0006HDJS                                       
+012623001950618220000000019661.10056MARTIRES DE TACUBAYA                                CLC0006HDJS                                       
+072620002128219639000000390842.50057MATIAS ROMERO AVENDANO                              CLC0006HDJS                                       
+072621002151629486000000461408.00059MIAHUATLAN DE PORFIRIO DIAZ                         CLC0006HDJS                                       
+012610001948901758000000033761.15060MIXISTLAN DE LA REFORMA                             CLC0006HDJS                                       
+072621002154979858000000048768.90061MONJAS                                              CLC0006HDJS                                       
+072612002135073672000000020343.95062NATIVIDAD                                           CLC0006HDJS                                       
+072610002158900096000000016943.30063NAZARENO ETLA                                       CLC0006HDJS                                       
+014610655041773431000000051827.80064NEJAPA DE MADERO                                    CLC0006HDJS                                       
+072614002125490166000000034606.00065IXPANTEPEC NIEVES                                   CLC0006HDJS                                       
+072617002157900333000000132917.90066SANTIAGO NILTEPEC                                   CLC0006HDJS                                       
+072610002132183282000006958467.45067OAXACA DE JUAREZ                                    CLC0006HDJS                                       
+044622093005306626000000223551.15068OCOTLAN DE MORELOS                                  CLC0006HDJS                                       
+044622093005329593000000026198.10069LA PE                                               CLC0006HDJS                                       
+072623002151619698000000059120.65070PINOTEPA DE DON LUIS                                CLC0006HDJS                                       
+072634002126819344000000093459.25071PLUMA HIDALGO                                       CLC0006HDJS                                       
+002622700121959059000000033082.50072SAN JOSE DEL PROGRESO                               CLC0006HDJS                                       
+012625001949808081000000246930.85073PUTLA VILLA DE GUERRERO                             CLC0006HDJS                                       
+072621002152984544000000025898.00074SANTA CATARINA QUIOQUITANI                          CLC0006HDJS                                       
+072617006738014547000000070807.80075REFORMA DE PINEDA                                   CLC0006HDJS                                       
+002610063901260167000000045460.75076LA REFORMA                                          CLC0006HDJS                                       
+002610700772895914000000037945.95077REYES ETLA                                          CLC0006HDJS                                       
+002638700647229891000000023691.55078ROJAS DE CUAUHTEMOC                                 CLC0006HDJS                                       
+072626002139663029000000780291.40079SALINA CRUZ                                         CLC0006HDJS                                       
+072614002125491372000000022370.80081SAN AGUSTIN ATENANGO                                CLC0006HDJS                                       
+072623008976875394000000027874.40082SAN AGUSTIN CHAYUCO                                 CLC0006HDJS                                       
+072610002167149246000000062371.55083SAN AGUSTIN DE LAS JUNTAS                           CLC0006HDJS                                       
+072610002153497672000000036921.95084SAN AGUSTIN ETLA                                    CLC0006HDJS                                       
+072640002141848407000000060775.70085SAN AGUSTIN LOXICHA                                 CLC0006HDJS                                       
+072613002153498513000000024667.25086SAN AGUSTIN TLACOTEPEC                              CLC0006HDJS                                       
+072610002162406654000000058762.50087SAN AGUSTIN YATARENI                                CLC0006HDJS                                       
+072613002140406835000000036795.85088SAN ANDRES CABECERA NUEVA                           CLC0006HDJS                                       
+072614002126827628000000019206.80089SAN ANDRES DINICUITI                                CLC0006HDJS                                       
+072623002141072782000000054620.40090SAN ANDRES HUAXPALTEPEC                             CLC0006HDJS                                       
+072610002140412330000000097315.30091SAN ANDRES HUAYAPAM                                 CLC0006HDJS                                       
+072610002156974684000000028146.95092SAN ANDRES IXTLAHUACA                               CLC0006HDJS                                       
+072613002153498241000000015313.55093SAN ANDRES LAGUNAS                                  CLC0006HDJS                                       
+012610001802902547000000023513.75094SAN ANDRES NUXINO                                   CLC0006HDJS                                       
+072621002163947554000000050527.70095SAN ANDRES PAXTLAN                                  CLC0006HDJS                                       
+002610700778267083000000014357.95096SAN ANDRES SINAXTLA                                 CLC0006HDJS                                       
+044610092026626479000000025064.15097SAN ANDRES SOLAGA                                   CLC0006HDJS                                       
+072610002165015534000000026295.50098SAN ANDRES TEOTILALPAM                              CLC0006HDJS                                       
+072614002126825028000000029813.70099SAN ANDRES TEPETLAPA                                CLC0006HDJS                                       
+072610002162072020000000024914.80100SAN ANDRES YAA                                      CLC0006HDJS                                       
+072610002156719276000000026394.55101SAN ANDRES ZABACHE                                  CLC0006HDJS                                       
+002610700701107660000000031542.05102SAN ANDRES ZAUTLA                                   CLC0006HDJS                                       
+044622093005330252000000082909.25103SAN ANTONINO CASTILLO VELASCO                       CLC0006HDJS                                       
+072640002141734427000000049889.85104SAN ANTONINO EL ALTO                                CLC0006HDJS                                       
+072640002141843541000000030639.60105SAN ANTONINO MONTE VERDE                            CLC0006HDJS                                       
+072614002126829312000000015125.45106SAN ANTONIO ACUTLA                                  CLC0006HDJS                                       
+014610655041715703000000178873.95107SAN ANTONIO DE LA CAL                               CLC0006HDJS                                       
+012610001948867122000000027269.25108SAN ANTONIO HUITEPEC                                CLC0006HDJS                                       
+072670002188395404000000018290.95109SAN ANTONIO NANAHUATIPAM                            CLC0006HDJS                                       
+072613002153501921000000026436.90110SAN ANTONIO SINICAHUA                               CLC0006HDJS                                       
+072623002155893122000000042355.30111SAN ANTONIO TEPETLAPA                               CLC0006HDJS                                       
+012610001949548741000000086709.60112SAN BALTAZAR CHICHICAPAM                            CLC0006HDJS                                       
+002621700580656826000000075548.30113SAN BALTAZAR LOXICHA                                CLC0006HDJS                                       
+072610002170230252000000017927.30114SAN BALTAZAR YATZACHI EL BAJO                       CLC0006HDJS                                       
+072640002141851371000000087757.20115SAN BARTOLO COYOTEPEC                               CLC0006HDJS                                       
+072628002141869563000000030196.75116SAN BARTOLOME AYAUTLA                               CLC0006HDJS                                       
+012610001950290075000000030269.55117SAN BARTOLOME LOXICHA                               CLC0006HDJS                                       
+002638700722889376000000061308.75118SAN BARTOLOME QUIALANA                              CLC0006HDJS                                       
+072613002153501471000000022445.00119SAN BARTOLOME YUCUANE                               CLC0006HDJS                                       
+012610001950882917000000025021.95120SAN BARTOLOME ZOOGOCHO                              CLC0006HDJS                                       
+012611001950371074000000019540.45121SAN BARTOLO SOYALTEPEC                              CLC0006HDJS                                       
+072637002154351923000000022963.05122SAN BARTOLO YAUTEPEC                                CLC0006HDJS                                       
+002640700675524640000000040165.40123SAN BERNARDO MIXTEPEC                               CLC0006HDJS                                       
+072626002141143061000000109337.35124SAN BLAS ATEMPA                                     CLC0006HDJS                                       
+014610655042016508000000111773.00125SAN CARLOS YAUTEPEC                                 CLC0006HDJS                                       
+072621002141871134000000044185.20126SAN CRISTOBAL AMATLAN                               CLC0006HDJS                                       
+012610001949378995000000024813.70127SAN CRISTOBAL AMOLTEPEC                             CLC0006HDJS                                       
+012611001948528185000000040348.25129SAN CRISTOBAL SUCHIXTLAHUACA                        CLC0006HDJS                                       
+072610002160328242000000115275.50131SAN DIONISIO OCOTEPEC                               CLC0006HDJS                                       
+002622700026442137000000029204.30132SAN DIONISIO OCOTLAN                                CLC0006HDJS                                       
+072613002153502221000000033951.15133SAN ESTEBAN ATATLAHUCA                              CLC0006HDJS                                       
+012628001948959161000000148862.00134SAN FELIPE JALAPA DE DIAZ                           CLC0006HDJS                                       
+072610002169534422000000026108.40135SAN FELIPE TEJALAPAM                                CLC0006HDJS                                       
+014628920019087151000000143178.00136SAN FELIPE USILA                                    CLC0006HDJS                                       
+012610001948831284000000044587.50137SAN FRANCISCO CAHUACUA                              CLC0006HDJS                                       
+072610002102170306000000018536.90138SAN FRANCISCO CAJONOS                               CLC0006HDJS                                       
+072610002167867078000000026764.50139SAN FRANCISCO CHAPULAPA                             CLC0006HDJS                                       
+002610700758697796000000014832.90140SAN FRANCISCO CHINDUA                               CLC0006HDJS                                       
+072617006738013797000000051564.15141SAN FRANCISCO DEL MAR                               CLC0006HDJS                                       
+002670700587379076000000020024.25142SAN FRANCISCO HUEHUETLAN                            CLC0006HDJS                                       
+014610655041752656000000099733.75143SAN FRANCISCO IXHUATAN                              CLC0006HDJS                                       
+002610700717258299000000017615.35144SAN FRANCISCO JALTEPETONGO                          CLC0006HDJS                                       
+002610700708841178000000038543.55145SAN FRANCISCO LACHIGOLO                             CLC0006HDJS                                       
+072621002164225000000000041957.65146SAN FRANCISCO LOGUECHE                              CLC0006HDJS                                       
+012611001951026506000000032128.40147SAN FRANCISCO NUXANO                                CLC0006HDJS                                       
+072621002158553076000000037427.35148SAN FRANCISCO OZOLOTEPEC                            CLC0006HDJS                                       
+002640700738047349000000029967.95149SAN FRANCISCO SOLA                                  CLC0006HDJS                                       
+002610700701107071000000047857.00150SAN FRANCISCO TELIXTLAHUACA                         CLC0006HDJS                                       
+012611001949456382000000015037.70151SAN FRANCISCO TEOPAN                                CLC0006HDJS                                       
+072614002126823884000000024120.20152SAN FRANCISCO TLAPANCINGO                           CLC0006HDJS                                       
+072624002152102145000000023594.40153SAN GABRIEL MIXTEPEC                                CLC0006HDJS                                       
+072621002116752806000000038498.85154SAN ILDEFONSO AMATLAN                               CLC0006HDJS                                       
+044610092026661625000000028665.90155SAN ILDEFONSO SOLA                                  CLC0006HDJS                                       
+072610002170230702000000034326.90156SAN ILDEFONSO VILLA ALTA                            CLC0006HDJS                                       
+002640700675524721000000032651.20158SAN JACINTO TLACOTEPEC                              CLC0006HDJS                                       
+072621002165964920000000036700.50159SAN JERONIMO COATLAN                                CLC0006HDJS                                       
+072614002125486808000000026404.00160SAN JERONIMO SILACAYOAPILLA                         CLC0006HDJS                                       
+072610002141815868000000024353.20161SAN JERONIMO SOSOLA                                 CLC0006HDJS                                       
+012622001949750145000000021353.00162SAN JERONIMO TAVICHE                                CLC0006HDJS                                       
+002670700657827720000000045348.55163SAN JERONIMO TECOATL                                CLC0006HDJS                                       
+072614002125485142000000024922.15164SAN JORGE NUCHITA                                   CLC0006HDJS                                       
+012628001948711545000000066015.50166SAN JOSE CHILTEPEC                                  CLC0006HDJS                                       
+002621700583863140000000027397.20167SAN JOSE DEL PENASCO                                CLC0006HDJS                                       
+072623002163971764000000019069.80168SAN JOSE ESTANCIA GRANDE                            CLC0006HDJS                                       
+012628001950035552000000046265.10169SAN JOSE INDEPENDENCIA                              CLC0006HDJS                                       
+072621002130977748000000046610.90170SAN JOSE LACHIGUIRI                                 CLC0006HDJS                                       
+036610500212998437000000118857.40171SAN JOSE TENANGO                                    CLC0006HDJS                                       
+002613700641358039000000009936.00172SAN JUAN ACHIUTLA                                   CLC0006HDJS                                       
+072612002135071616000000023498.10173SAN JUAN ATEPEC                                     CLC0006HDJS                                       
+072610002188795828000000029832.20175SAN JUAN BAUTISTA ATATLAHUCA                        CLC0006HDJS                                       
+012611001950179470000000040745.15176SAN JUAN BAUTISTA COIXTLAHUACA                      CLC0006HDJS                                       
+072610002133332126000000043660.60177SAN JUAN BAUTISTA CUICATLAN                         CLC0006HDJS                                       
+072640002141843279000000030788.80179SAN JUAN BAUTISTA JAYACATLAN                        CLC0006HDJS                                       
+072623002156285292000000024668.80180SAN JUAN BAUTISTA LO DE SOTO                        CLC0006HDJS                                       
+072614002125486264000000019949.05181SAN JUAN BAUTISTA SUCHITEPEC                        CLC0006HDJS                                       
+012628001948935224000000024746.30182SAN JUAN BAUTISTA TLACOATZINTEPEC                   CLC0006HDJS                                       
+072614002125485964000000028508.95183SAN JUAN BAUTISTA TLACHICHILCO                      CLC0006HDJS                                       
+072628002125482885000003015043.15184SAN JUAN BAUTISTA TUXTEPEC                          CLC0006HDJS                                       
+012623001949831571000000050086.90185SAN JUAN CACAHUATEPEC                               CLC0006HDJS                                       
+072614002125485692000000026259.55186SAN JUAN CIENEGUILLA                                CLC0006HDJS                                       
+072628002141870659000000024921.50187SAN JUAN COATZOSPAM                                 CLC0006HDJS                                       
+014623655041720730000000035028.60188SAN JUAN COLORADO                                   CLC0006HDJS                                       
+014610655041698998000000021804.80189SAN JUAN COMALTEPEC                                 CLC0006HDJS                                       
+014855655041610715000000074736.50190SAN JUAN COTZOCON                                   CLC0006HDJS                                       
+072612002135074794000000011124.10191SAN JUAN CHICOMEZUCHIL                              CLC0006HDJS                                       
+044622093005282504000000025855.50192SAN JUAN CHILATECA                                  CLC0006HDJS                                       
+072610002156974134000000021282.75193SAN JUAN DEL ESTADO                                 CLC0006HDJS                                       
+002638700684333960000000029253.80194SAN JUAN DEL RIO                                    CLC0006HDJS                                       
+002610700774709464000000032595.35195SAN JUAN DIUXI                                      CLC0006HDJS                                       
+072612002135074422000000018114.65196SAN JUAN EVANGELISTA ANALCO                         CLC0006HDJS                                       
+012610001948601362000000054849.20197SAN JUAN GUELAVIA                                   CLC0006HDJS                                       
+044620086003415764000000322033.55198SAN JUAN GUICHICOVI                                 CLC0006HDJS                                       
+044614207000210595000000021270.00199SAN JUAN IHUALTEPEC                                 CLC0006HDJS                                       
+072612002163168504000000018988.30201SAN JUAN JUQUILA VIJANOS                            CLC0006HDJS                                       
+072624002141868623000000038794.15202SAN JUAN LACHAO                                     CLC0006HDJS                                       
+044622093005306707000000031504.70203SAN JUAN LACHIGALLA                                 CLC0006HDJS                                       
+012610001951427928000000019067.40204SAN JUAN LAJARCIA                                   CLC0006HDJS                                       
+014855655041843265000000136820.95205SAN JUAN LALANA                                     CLC0006HDJS                                       
+072670002194385848000000019879.00206SAN JUAN DE LOS CUES                                CLC0006HDJS                                       
+072620002140405353000000098958.60207SAN JUAN MAZATLAN                                   CLC0006HDJS                                       
+072610002162308354000000041307.80208SAN JUAN MIXTEPEC -DTO. 08 -                        CLC0006HDJS                                       
+072621002159680744000000030159.55209SAN JUAN MIXTEPEC -DTO. 26 -                        CLC0006HDJS                                       
+072613002153499185000000030940.40210SAN JUAN NUMI                                       CLC0006HDJS                                       
+014610655041933271000000027176.30212SAN JUAN PETLAPA                                    CLC0006HDJS                                       
+012610001949960468000000044626.50213SAN JUAN QUIAHIJE                                   CLC0006HDJS                                       
+044610092026577162000000021972.10214SAN JUAN QUIOTEPEC                                  CLC0006HDJS                                       
+002610700741943871000000022788.65215SAN JUAN SAYULTEPEC                                 CLC0006HDJS                                       
+072610008967985866000000031267.75216SAN JUAN TABAA                                      CLC0006HDJS                                       
+072613002126822857000000025127.20218SAN JUAN TEITA                                      CLC0006HDJS                                       
+002638700625714797000000037038.95219SAN JUAN TEITIPAC                                   CLC0006HDJS                                       
+072610002170174716000000036023.85220SAN JUAN TEPEUXILA                                  CLC0006HDJS                                       
+072613002153499729000000025475.90221SAN JUAN TEPOSCOLULA                                CLC0006HDJS                                       
+072612008956287984000000023495.35222SAN JUAN YAEE                                       CLC0006HDJS                                       
+012610001950333738000000034601.00223SAN JUAN YATZONA                                    CLC0006HDJS                                       
+002610700777714236000000019026.40224SAN JUAN YUCUITA                                    CLC0006HDJS                                       
+072623002141549008000000031125.00225SAN LORENZO                                         CLC0006HDJS                                       
+002638700707968380000000050855.15226SAN LORENZO ALBARRADAS                              CLC0006HDJS                                       
+012610001949693751000000116054.75227SAN LORENZO CACAOTEPEC                              CLC0006HDJS                                       
+002670700668541066000000027976.00228SAN LORENZO CUAUNECUILTITLA                         CLC0006HDJS                                       
+002640700675525296000000035471.45229SAN LORENZO TEXMELUCAN                              CLC0006HDJS                                       
+044614207000210676000000019126.05230SAN LORENZO VICTORIA                                CLC0006HDJS                                       
+012610001950998115000000027519.30231SAN LUCAS CAMOTLAN                                  CLC0006HDJS                                       
+014855655041712150000000144292.50232SAN LUCAS OJITLAN                                   CLC0006HDJS                                       
+014610655042242518000000063731.10233SAN LUCAS QUIAVINI                                  CLC0006HDJS                                       
+002671700713441405000000034213.10234SAN LUCAS ZOQUIAPAM                                 CLC0006HDJS                                       
+072621002168293504000000040637.75236SAN MARCIAL OZOLOTEPEC                              CLC0006HDJS                                       
+072614002125488314000000027493.40237SAN MARCOS ARTEAGA                                  CLC0006HDJS                                       
+072610002158900546000000028800.25238SAN MARTIN DE LOS CANSECOS                          CLC0006HDJS                                       
+072613002153503893000000018662.10239SAN MARTIN HUAMELULPAM                              CLC0006HDJS                                       
+072613002153502593000000027648.50240SAN MARTIN ITUNYOSO                                 CLC0006HDJS                                       
+072610002171297948000000026729.75241SAN MARTIN LACHILA                                  CLC0006HDJS                                       
+002635700022538508000000040121.40242SAN MARTIN PERAS                                    CLC0006HDJS                                       
+044622093005330760000000042351.20243SAN MARTIN TILCAJETE                                CLC0006HDJS                                       
+072610002108815898000000025467.80244SAN MARTIN TOXPALAN                                 CLC0006HDJS                                       
+072614002125487470000000017584.10245SAN MARTIN ZACATEPEC                                CLC0006HDJS                                       
+072610002173728172000000020300.00246SAN MATEO CAJONOS                                   CLC0006HDJS                                       
+072612002135075188000000027909.90247CAPULALPAM DE MENDEZ                                CLC0006HDJS                                       
+002671700715898289000000041407.05249SAN MATEO YOLOXOCHITLAN                             CLC0006HDJS                                       
+002610700747613545000000030757.95250SAN MATEO ETLATONGO                                 CLC0006HDJS                                       
+072614002126828478000000030612.40251SAN MATEO NEJAPAM                                   CLC0006HDJS                                       
+014610655041766862000000035459.15253SAN MATEO PINAS                                     CLC0006HDJS                                       
+072621002151820586000000042213.30254SAN MATEO RIO HONDO                                 CLC0006HDJS                                       
+012611001950324319000000023472.80255SAN MATEO SINDIHUI                                  CLC0006HDJS                                       
+072614002125487742000000019169.15256SAN MATEO TLAPILTEPEC                               CLC0006HDJS                                       
+072610002167149796000000026120.45257SAN MELCHOR BETAZA                                  CLC0006HDJS                                       
+072613002153500359000000023330.60258SAN MIGUEL ACHIUTLA                                 CLC0006HDJS                                       
+072614002125489520000000050371.30259SAN MIGUEL AHUEHUETITLAN                            CLC0006HDJS                                       
+002610700769608428000000022864.35260SAN MIGUEL ALOAPAM                                  CLC0006HDJS                                       
+072614002084217862000000144160.55261SAN MIGUEL AMATITLAN                                CLC0006HDJS                                       
+072612002163169448000000014225.35262SAN MIGUEL AMATLAN                                  CLC0006HDJS                                       
+072621002169285702000000042055.80263SAN MIGUEL COATLAN                                  CLC0006HDJS                                       
+012610001951334833000000043887.95264SAN MIGUEL CHICAHUA                                 CLC0006HDJS                                       
+072617002140016027000000030252.80265SAN MIGUEL CHIMALAPA                                CLC0006HDJS                                       
+014610655041652413000000286175.50266SAN MIGUEL DEL PUERTO                               CLC0006HDJS                                       
+072612002135072000000000017322.55267SAN MIGUEL DEL RIO                                  CLC0006HDJS                                       
+002622700126409766000000022610.10268SAN MIGUEL EJUTLA                                   CLC0006HDJS                                       
+012610001949114230000000113724.70269SAN MIGUEL EL GRANDE                                CLC0006HDJS                                       
+012611001948696567000000027523.85270SAN MIGUEL HUAUTLA                                  CLC0006HDJS                                       
+072640002139369215000000024291.40271SAN MIGUEL MIXTEPEC                                 CLC0006HDJS                                       
+002624700104085375000000032092.50272SAN MIGUEL PANIXTLAHUACA                            CLC0006HDJS                                       
+072610002141867780000000038273.65273SAN MIGUEL PERAS                                    CLC0006HDJS                                       
+002610700777714663000000025015.10274SAN MIGUEL PIEDRAS                                  CLC0006HDJS                                       
+002610700712693862000000032648.40275SAN MIGUEL QUETZALTEPEC                             CLC0006HDJS                                       
+072610002156545372000000036356.80276SAN MIGUEL SANTA FLOR                               CLC0006HDJS                                       
+072640002141846085000000124021.90277VILLA SOLA DE VEGA                                  CLC0006HDJS                                       
+012898001948630469000000280298.35278SAN MIGUEL SOYALTEPEC                               CLC0006HDJS                                       
+072621002162753684000000035991.70279SAN MIGUEL SUCHIXTEPEC                              CLC0006HDJS                                       
+072612002135071438000000037064.25280VILLA TALEA DE CASTRO                               CLC0006HDJS                                       
+012611001950534471000000015526.00281SAN MIGUEL TECOMATLAN                               CLC0006HDJS                                       
+072637002154725711000000017362.80282SAN MIGUEL TENANGO                                  CLC0006HDJS                                       
+012611001949657796000000027680.20283SAN MIGUEL TEQUIXTEPEC                              CLC0006HDJS                                       
+044622093005329409000000074115.50284SAN MIGUEL TILQUIAPAM                               CLC0006HDJS                                       
+021635040570223941000000048253.60286SAN MIGUEL TLACOTEPEC                               CLC0006HDJS                                       
+012611001949484671000000016153.05287SAN MIGUEL TULANCINGO                               CLC0006HDJS                                       
+072612002135070688000000031404.65288SAN MIGUEL YOTAO                                    CLC0006HDJS                                       
+072610002196057888000000024712.20289SAN NICOLAS                                         CLC0006HDJS                                       
+014614655041730179000000019678.15290SAN NICOLAS HIDALGO                                 CLC0006HDJS                                       
+072610002166141724000000028634.10291SAN PABLO COATLAN                                   CLC0006HDJS                                       
+012610001949524561000000024281.25292SAN PABLO CUATRO VENADOS                            CLC0006HDJS                                       
+044610092026575627000000161347.05293SAN PABLO ETLA                                      CLC0006HDJS                                       
+072610002153496738000000071519.30294SAN PABLO HUITZO                                    CLC0006HDJS                                       
+012610001949542624000000132146.30295SAN PABLO HUIXTEPEC                                 CLC0006HDJS                                       
+072612002135072738000000021729.75296SAN PABLO MACUILTIANGUIS                            CLC0006HDJS                                       
+072613002140407135000000029750.35297SAN PABLO TIJALTEPEC                                CLC0006HDJS                                       
+002638700615873554000000091654.90298SAN PABLO VILLA DE MITLA                            CLC0006HDJS                                       
+012610001951461272000000024414.00299SAN PABLO YAGANIZA                                  CLC0006HDJS                                       
+002610063901260400000000047985.50300SAN PEDRO AMUZGOS                                   CLC0006HDJS                                       
+012622001948612569000000062791.15301SAN PEDRO APOSTOL                                   CLC0006HDJS                                       
+012623001949915918000000032843.45302SAN PEDRO ATOYAC                                    CLC0006HDJS                                       
+012610001949217632000000017069.10303SAN PEDRO CAJONOS                                   CLC0006HDJS                                       
+012611001950240561000000020481.80304SAN PEDRO COXCALTEPEC CANTAROS                      CLC0006HDJS                                       
+002616700462239677000000048426.10305SAN PEDRO COMITANCILLO                              CLC0006HDJS                                       
+002621700581383295000000045632.25306SAN PEDRO EL ALTO                                   CLC0006HDJS                                       
+072626002156852237000000032255.20307SAN PEDRO HUAMELULA                                 CLC0006HDJS                                       
+021626040570222207000000068933.80308SAN PEDRO HUILOTEPEC                                CLC0006HDJS                                       
+012628001948822531000000075806.85309SAN PEDRO IXCATLAN                                  CLC0006HDJS                                       
+072610002178941048000000052062.30310SAN PEDRO IXTLAHUACA                                CLC0006HDJS                                       
+072610002141816168000000025861.70311SAN PEDRO JALTEPETONGO                              CLC0006HDJS                                       
+072623002151562004000000044339.90312SAN PEDRO JICAYAN                                   CLC0006HDJS                                       
+072640002141848863000000026350.40313SAN PEDRO JOCOTIPAC                                 CLC0006HDJS                                       
+072610002169257660000000031982.35314SAN PEDRO JUCHATENGO                                CLC0006HDJS                                       
+044622093005329917000000035539.70315SAN PEDRO MARTIR                                    CLC0006HDJS                                       
+012610001949386071000000030047.25316SAN PEDRO MARTIR QUIECHAPA                          CLC0006HDJS                                       
+002613700600488843000000030448.95317SAN PEDRO MARTIR YUCUXACO                           CLC0006HDJS                                       
+072624002155009601000000418693.75318SAN PEDRO MIXTEPEC -DTO. 22 -                       CLC0006HDJS                                       
+072621002169704034000000012398.50319SAN PEDRO MIXTEPEC -DTO. 26 -                       CLC0006HDJS                                       
+012610001949868227000000013439.00320SAN PEDRO MOLINOS                                   CLC0006HDJS                                       
+072614002125490700000000019029.55321SAN PEDRO NOPALA                                    CLC0006HDJS                                       
+002670700652866003000000028043.00322SAN PEDRO OCOPETATILLO                              CLC0006HDJS                                       
+012610001948977148000000022468.70323SAN PEDRO OCOTEPEC                                  CLC0006HDJS                                       
+044630094005848007000000229589.80324SAN PEDRO POCHUTLA                                  CLC0006HDJS                                       
+002638700602286028000000097659.20325SAN PEDRO QUIATONI                                  CLC0006HDJS                                       
+072640002141847385000000078673.75326SAN PEDRO SOCHIAPAM                                 CLC0006HDJS                                       
+002631700581493719000000278037.35327SAN PEDRO TAPANATEPEC                               CLC0006HDJS                                       
+044622093005307007000000020532.00328SAN PEDRO TAVICHE                                   CLC0006HDJS                                       
+002610700772895671000000020516.85329SAN PEDRO TEOZACOALCO                               CLC0006HDJS                                       
+014855655041999449000000027928.60330SAN PEDRO TEUTILA                                   CLC0006HDJS                                       
+012611001950577878000000029415.00331SAN PEDRO TIDAA                                     CLC0006HDJS                                       
+002638700670453922000000016407.35333SAN PEDRO TOTOLAPAM                                 CLC0006HDJS                                       
+002624700104084567000000188309.65334VILLA DE TUTUTEPEC DE MELCHOR OCAMPO                CLC0006HDJS                                       
+072612002135074888000000025262.10335SAN PEDRO YANERI                                    CLC0006HDJS                                       
+072612002135073944000000044169.70336SAN PEDRO YOLOX                                     CLC0006HDJS                                       
+072610002160053782000000050923.65337SAN PEDRO Y SAN PABLO AYUTLA                        CLC0006HDJS                                       
+072610002158900274000000131101.15338VILLA DE ETLA                                       CLC0006HDJS                                       
+072613002152105687000000061833.15339SAN PEDRO Y SAN PABLO TEPOSCOLULA                   CLC0006HDJS                                       
+072614002126827356000000018884.85340SAN PEDRO Y SAN PABLO TEQUIXTEPEC                   CLC0006HDJS                                       
+072613002126823791000000017607.90341SAN PEDRO YUCUNAMA                                  CLC0006HDJS                                       
+072640002116741717000000057679.50342SAN RAYMUNDO JALPAN                                 CLC0006HDJS                                       
+072610002174382724000000034626.25343SAN SEBASTIAN ABASOLO                               CLC0006HDJS                                       
+072621002154385866000000045022.90344SAN SEBASTIAN COATLAN                               CLC0006HDJS                                       
+072623002163833938000000027058.80345SAN SEBASTIAN IXCAPA                                CLC0006HDJS                                       
+072613002152104659000000023800.55346SAN SEBASTIAN NICANANDUTA                           CLC0006HDJS                                       
+072621002167964342000000027085.00347SAN SEBASTIAN RIO HONDO                             CLC0006HDJS                                       
+002635700022538184000000102737.65348SAN SEBASTIAN TECOMAXTLAHUACA                       CLC0006HDJS                                       
+072610002167150060000000170145.00350SAN SEBASTIAN TUTLA                                 CLC0006HDJS                                       
+072621002160081002000000036399.60351SAN SIMON ALMOLONGAS                                CLC0006HDJS                                       
+072614002125492122000000029679.10352SAN SIMON ZAHUATLAN                                 CLC0006HDJS                                       
+072621002153345946000000054951.20353SANTA ANA                                           CLC0006HDJS                                       
+002670700662714103000000022695.25354SANTA ANA ATEIXTLAHUACA                             CLC0006HDJS                                       
+012610001950917992000000022740.00355SANTA ANA CUAUHTEMOC                                CLC0006HDJS                                       
+002638700664020002000000031440.80356SANTA ANA DEL VALLE                                 CLC0006HDJS                                       
+012610001951713771000000026324.65357SANTA ANA TAVELA                                    CLC0006HDJS                                       
+072610002151571040000000040201.60358SANTA ANA TLAPACOYAN                                CLC0006HDJS                                       
+072610002163168056000000026582.15359SANTA ANA YARENI                                    CLC0006HDJS                                       
+072610008998216818000000058569.40360SANTA ANA ZEGACHE                                   CLC0006HDJS                                       
+072621002137690086000000030099.25361SANTA CATALINA QUIERI                               CLC0006HDJS                                       
+002621700563008543000000028747.20362SANTA CATARINA CUIXTLA                              CLC0006HDJS                                       
+072612002135075544000000032350.50363SANTA CATARINA IXTEPEJI                             CLC0006HDJS                                       
+012610001948869094000000144536.55364SANTA CATARINA JUQUILA                              CLC0006HDJS                                       
+072612002168533286000000019161.80365SANTA CATARINA LACHATAO                             CLC0006HDJS                                       
+072621002168534852000000078740.05366SANTA CATARINA LOXICHA                              CLC0006HDJS                                       
+014623655041810747000000036559.75367SANTA CATARINA MECHOACAN                            CLC0006HDJS                                       
+044622093005305818000000078372.05368SANTA CATARINA MINAS                                CLC0006HDJS                                       
+072610002121546526000000031016.85369SANTA CATARINA QUIANE                               CLC0006HDJS                                       
+002613700629185761000000025514.20370SANTA CATARINA TAYATA                               CLC0006HDJS                                       
+072613002140406479000000028931.30371SANTA CATARINA TICUA                                CLC0006HDJS                                       
+072613002152680649000000032906.55372SANTA CATARINA YOSONOTU                             CLC0006HDJS                                       
+072614002126824540000000018543.30373SANTA CATARINA ZAPOQUILA                            CLC0006HDJS                                       
+021633040570220140000000109157.40375SANTA CRUZ AMILPAS                                  CLC0006HDJS                                       
+014614655041798470000000016779.35376SANTA CRUZ DE BRAVO                                 CLC0006HDJS                                       
+002613700604431715000000076493.95377SANTA CRUZ ITUNDUJIA                                CLC0006HDJS                                       
+072640002139368559000000053700.55378SANTA CRUZ MIXTEPEC                                 CLC0006HDJS                                       
+012610001949420940000000023591.30379SANTA CRUZ NUNDACO                                  CLC0006HDJS                                       
+072610002160612990000000019449.00380SANTA CRUZ PAPALUTLA                                CLC0006HDJS                                       
+072614002126825756000000053706.05381SANTA CRUZ TACACHE DE MINA                          CLC0006HDJS                                       
+012610001949883888000000025965.95382SANTA CRUZ TACAHUA                                  CLC0006HDJS                                       
+072613002126823241000000016608.80383SANTA CRUZ TAYATA                                   CLC0006HDJS                                       
+072621002167533430000000030295.50384SANTA CRUZ XITLA                                    CLC0006HDJS                                       
+072610002158603380000000467146.95385SANTA CRUZ XOXOCOTLAN                               CLC0006HDJS                                       
+072610002139381854000000068252.00386SANTA CRUZ ZENZONTEPEC                              CLC0006HDJS                                       
+044610092026624183000000035470.00387SANTA GERTRUDIS                                     CLC0006HDJS                                       
+072610002157502602000000089896.55388SANTA INES DEL MONTE                                CLC0006HDJS                                       
+072640002141846807000000034333.70389SANTA INES YATZECHE                                 CLC0006HDJS                                       
+014610655041568484000000208972.05390SANTA LUCIA DEL CAMINO                              CLC0006HDJS                                       
+072621002169222516000000040573.00391SANTA LUCIA MIAHUATLAN                              CLC0006HDJS                                       
+072613008983562257000000057130.20392SANTA LUCIA MONTEVERDE                              CLC0006HDJS                                       
+044622093005331578000000032602.45393SANTA LUCIA OCOTLAN                                 CLC0006HDJS                                       
+012610001948951180000000019481.80394SANTA MARIA ALOTEPEC                                CLC0006HDJS                                       
+002610700777713936000000029106.70395SANTA MARIA APAZCO                                  CLC0006HDJS                                       
+002670700646880202000000031442.20396SANTA MARIA LA ASUNCION                             CLC0006HDJS                                       
+072613002140406107000000384562.10397HEROICA CIUDAD DE TLAXIACO                          CLC0006HDJS                                       
+002640700664705616000000061243.95398AYOQUEZCO DE ALDAMA                                 CLC0006HDJS                                       
+072640002141850709000000165442.60399SANTA MARIA ATZOMPA                                 CLC0006HDJS                                       
+072614002125486536000000026356.20400SANTA MARIA CAMOTLAN                                CLC0006HDJS                                       
+072624002118094239000000192985.45401SANTA MARIA COLOTEPEC                               CLC0006HDJS                                       
+072623002141016502000000020335.60402SANTA MARIA CORTIJO                                 CLC0006HDJS                                       
+072640002141842241000000042066.15403SANTA MARIA COYOTEPEC                               CLC0006HDJS                                       
+012611001950887128000000028586.45404SANTA MARIA CHACHOAPAM                              CLC0006HDJS                                       
+072614002125489892000000031816.25405VILLA DE CHILAPA DE DIAZ                            CLC0006HDJS                                       
+072670002173459698000000126665.55406SANTA MARIA CHILCHOTLA                              CLC0006HDJS                                       
+072617002162532631000000036037.80407SANTA MARIA CHIMALAPA                               CLC0006HDJS                                       
+072613008983561229000000024446.00408SANTA MARIA DEL ROSARIO                             CLC0006HDJS                                       
+072610002162057676000000077399.50409SANTA MARIA DEL TULE                                CLC0006HDJS                                       
+072610002175000128000000023512.80411SANTA MARIA GUELACE                                 CLC0006HDJS                                       
+072617006738014181000000027293.50412SANTA MARIA GUIENAGATI                              CLC0006HDJS                                       
+002634700512622378000001178267.65413SANTA MARIA HUATULCO                                CLC0006HDJS                                       
+014623655041721810000000070970.05414SANTA MARIA HUAZOLOTITLAN                           CLC0006HDJS                                       
+072623002156554046000000026976.90415SANTA MARIA IPALAPA                                 CLC0006HDJS                                       
+072610002161081850000000026203.40416SANTA MARIA IXCATLAN                                CLC0006HDJS                                       
+021628040570220977000000108242.65417SANTA MARIA JACATEPEC                               CLC0006HDJS                                       
+072612002135069864000000024154.15419SANTA MARIA JALTIANGUIS                             CLC0006HDJS                                       
+072640002141844485000000023941.70420SANTA MARIA LACHIXIO                                CLC0006HDJS                                       
+072617002157524793000000083359.85421SANTA MARIA MIXTEQUILLA                             CLC0006HDJS                                       
+002610700768830747000000021265.40422SANTA MARIA NATIVITAS                               CLC0006HDJS                                       
+012611001951524024000000016705.60423SANTA MARIA NDUAYACO                                CLC0006HDJS                                       
+072621002169509734000000086146.65424SANTA MARIA OZOLOTEPEC                              CLC0006HDJS                                       
+072610002177024788000000036006.20425SANTA MARIA PAPALO                                  CLC0006HDJS                                       
+072610002179977888000000036985.90426SANTA MARIA PENOLES                                 CLC0006HDJS                                       
+072620002098649423000000074705.55427SANTA MARIA PETAPA                                  CLC0006HDJS                                       
+044610092026623375000000027452.00428SANTA MARIA QUIEGOLANI                              CLC0006HDJS                                       
+072610002170174350000000025591.00429SANTA MARIA SOLA                                    CLC0006HDJS                                       
+072613002152106259000000021913.20430SANTA MARIA TATALTEPEC                              CLC0006HDJS                                       
+072670002187549426000000021801.60431SANTA MARIA TECOMAVACA                              CLC0006HDJS                                       
+072610002179712108000000028106.85432SANTA MARIA TEMAXCALAPA                             CLC0006HDJS                                       
+021610040570223526000000024065.20433SANTA MARIA TEMAXCALTEPEC                           CLC0006HDJS                                       
+072610002121546610000000033725.90434SANTA MARIA TEOPOXCO                                CLC0006HDJS                                       
+072610002152081814000000038256.85435SANTA MARIA TEPANTLALI                              CLC0006HDJS                                       
+012610001951822989000000021809.85436SANTA MARIA TEXCATITLAN                             CLC0006HDJS                                       
+012610001949090626000000036071.30437SANTA MARIA TLAHUITOLTEPEC                          CLC0006HDJS                                       
+072610002192039790000000026319.60438SANTA MARIA TLALIXTAC                               CLC0006HDJS                                       
+044630094005848353000001136567.20439SANTA MARIA TONAMECA                                CLC0006HDJS                                       
+072637002176206027000000039585.65440SANTA MARIA TOTOLAPILLA                             CLC0006HDJS                                       
+072617002159706577000000070509.95441SANTA MARIA XADANI                                  CLC0006HDJS                                       
+012610001949861567000000016755.55442SANTA MARIA YALINA                                  CLC0006HDJS                                       
+072612002163169710000000014549.40443SANTA MARIA YAVESIA                                 CLC0006HDJS                                       
+012610001949098369000000019405.00444SANTA MARIA YOLOTEPEC                               CLC0006HDJS                                       
+072613002153500087000000025869.60445SANTA MARIA YOSOYUA                                 CLC0006HDJS                                       
+072613008983561863000000045919.75446SANTA MARIA YUCUHITI                                CLC0006HDJS                                       
+002636700281587593000000135350.40447SANTA MARIA ZACATEPEC                               CLC0006HDJS                                       
+014610655042174165000000021319.60448SANTA MARIA ZANIZA                                  CLC0006HDJS                                       
+012610001949539242000000026643.40449SANTA MARIA ZOQUITLAN                               CLC0006HDJS                                       
+012610001949537626000000042575.50450SANTIAGO AMOLTEPEC                                  CLC0006HDJS                                       
+002610700772887731000000023303.30451SANTIAGO APOALA                                     CLC0006HDJS                                       
+044622093005305148000000053522.70452SANTIAGO APOSTOL                                    CLC0006HDJS                                       
+072626002139005205000000017048.10453SANTIAGO ASTATA                                     CLC0006HDJS                                       
+072610002155178290000000023243.80454SANTIAGO ATITLAN                                    CLC0006HDJS                                       
+072614002125488686000000037850.70455SANTIAGO AYUQUILILLA                                CLC0006HDJS                                       
+014614655041795092000000035130.75456SANTIAGO CACALOXTEPEC                               CLC0006HDJS                                       
+072612002163168960000000027788.20458SANTIAGO COMALTEPEC                                 CLC0006HDJS                                       
+072614002126824278000000055179.70459SANTIAGO CHAZUMBA                                   CLC0006HDJS                                       
+002635700051763506000000023926.50461SANTIAGO DEL RIO                                    CLC0006HDJS                                       
+072614002125491738000000054162.55462SANTIAGO HUAJOLOTITLAN                              CLC0006HDJS                                       
+002610700776638096000000018010.40463SANTIAGO HUAUCLILLA                                 CLC0006HDJS                                       
+012611001949537971000000017348.40464SANTIAGO IHUITLAN PLUMAS                            CLC0006HDJS                                       
+014623655041712942000000041351.60466SANTIAGO IXTAYUTLA                                  CLC0006HDJS                                       
+012623001949303986000000755094.90467SANTIAGO JAMILTEPEC                                 CLC0006HDJS                                       
+072628002141870293000000126011.15468SANTIAGO JOCOTEPEC                                  CLC0006HDJS                                       
+002635700022538935000000241474.35469SANTIAGO JUXTLAHUACA                                CLC0006HDJS                                       
+072637002141547779000000026631.15470SANTIAGO LACHIGUIRI                                 CLC0006HDJS                                       
+072612002168532708000000026184.40471SANTIAGO LALOPA                                     CLC0006HDJS                                       
+072617002157552655000000090111.80472SANTIAGO LAOLLAGA                                   CLC0006HDJS                                       
+072612002135069408000000024460.35473SANTIAGO LAXOPA                                     CLC0006HDJS                                       
+072623008976875666000000024274.70474SANTIAGO LLANO GRANDE                               CLC0006HDJS                                       
+072610008931714144000000170347.10475SANTIAGO MATATLAN                                   CLC0006HDJS                                       
+072614002125488958000000017318.35476SANTIAGO MILTEPEC                                   CLC0006HDJS                                       
+072610002165902032000000032587.40477SANTIAGO MINAS                                      CLC0006HDJS                                       
+072610002133332760000000019120.10478SANTIAGO NACALTEPEC                                 CLC0006HDJS                                       
+012611001950515092000000015449.30479SANTIAGO NEJAPILLA                                  CLC0006HDJS                                       
+072613002153500993000000024711.85480SANTIAGO NUNDICHE                                   CLC0006HDJS                                       
+002613700612606079000000029073.05481SANTIAGO NUYOO                                      CLC0006HDJS                                       
+014623655041712803000000355541.15482SANTIAGO PINOTEPA NACIONAL                          CLC0006HDJS                                       
+072610002153497300000000084817.55483SANTIAGO SUCHILQUITONGO                             CLC0006HDJS                                       
+014614655041718887000000048784.50484SANTIAGO TAMAZOLA                                   CLC0006HDJS                                       
+014623655041871715000000038896.50485SANTIAGO TAPEXTLA                                   CLC0006HDJS                                       
+072614002125485058000000102380.05486VILLA TEJUPAM DE LA UNION                           CLC0006HDJS                                       
+072610002139381126000000035962.15487SANTIAGO TENANGO                                    CLC0006HDJS                                       
+012611001948780868000000019796.50488SANTIAGO TEPETLAPA                                  CLC0006HDJS                                       
+072623002158535186000000034812.65489SANTIAGO TETEPEC                                    CLC0006HDJS                                       
+002671700715898014000000028772.15490SANTIAGO TEXCALCINGO                                CLC0006HDJS                                       
+012611001949409973000000044957.10492SANTIAGO TILANTONGO                                 CLC0006HDJS                                       
+012611001950384647000000016770.40493SANTIAGO TILLO                                      CLC0006HDJS                                       
+072610002161081216000000049836.95494SANTIAGO TLAZOYALTEPEC                              CLC0006HDJS                                       
+044630094005848780000000029050.60495SANTIAGO XANICA                                     CLC0006HDJS                                       
+072612002135073038000000022541.00496SANTIAGO XIACUI                                     CLC0006HDJS                                       
+072640002141849163000000043207.55497SANTIAGO YAITEPEC                                   CLC0006HDJS                                       
+012628001950051086000000055222.65498SANTIAGO YAVEO                                      CLC0006HDJS                                       
+072613002153500621000000032106.60499SANTIAGO YOLOMECATL                                 CLC0006HDJS                                       
+002613700636052531000000046440.15500SANTIAGO YOSONDUA                                   CLC0006HDJS                                       
+072614002126826506000000021761.95501SANTIAGO YUCUYACHI                                  CLC0006HDJS                                       
+072640002139369587000000031026.30502SANTIAGO ZACATEPEC                                  CLC0006HDJS                                       
+012610001804001572000000022981.70503SANTIAGO ZOOCHILA                                   CLC0006HDJS                                       
+012610001950036284000000031672.40504NUEVO ZOQUIAPAM                                     CLC0006HDJS                                       
+072617002175885605000000034577.10505SANTO DOMINGO INGENIO                               CLC0006HDJS                                       
+072640002139368193000000019471.15506SANTO DOMINGO ALBARRADAS                            CLC0006HDJS                                       
+014623655041737532000000036720.85507SANTO DOMINGO ARMENTA                               CLC0006HDJS                                       
+072617002157539995000000016065.05508SANTO DOMINGO CHIHUITAN                             CLC0006HDJS                                       
+044630094005847707000000064833.85509SANTO DOMINGO DE MORELOS                            CLC0006HDJS                                       
+002610700736520209000000042522.05511SANTO DOMINGO NUXAA                                 CLC0006HDJS                                       
+072621002163941848000000022300.40512SANTO DOMINGO OZOLOTEPEC                            CLC0006HDJS                                       
+002627700384199091000000040260.20513SANTO DOMINGO PETAPA                                CLC0006HDJS                                       
+012610001949891715000000025440.40514SANTO DOMINGO ROAYAGA                               CLC0006HDJS                                       
+072626002140079945000000574079.60515SANTO DOMINGO TEHUANTEPEC                           CLC0006HDJS                                       
+044610092026605209000000031367.70516SANTO DOMINGO TEOJOMULCO                            CLC0006HDJS                                       
+072610002169491280000000028779.10517SANTO DOMINGO TEPUXTEPEC                            CLC0006HDJS                                       
+012611001949796806000000017234.85518SANTO DOMINGO TLATAYAPAM                            CLC0006HDJS                                       
+072610008931713844000000038060.25519SANTO DOMINGO TOMALTEPEC                            CLC0006HDJS                                       
+072614002126826140000000092667.20520SANTO DOMINGO TONALA                                CLC0006HDJS                                       
+002610700774071529000000018845.20521SANTO DOMINGO TONALTEPEC                            CLC0006HDJS                                       
+072610002170173788000000020539.00522SANTO DOMINGO XAGACIA                               CLC0006HDJS                                       
+072610002140404144000000030095.55523SANTO DOMINGO YANHUITLAN                            CLC0006HDJS                                       
+044614207000195429000000016524.65524SANTO DOMINGO YODOHINO                              CLC0006HDJS                                       
+002631700549386305000000093256.20525SANTO DOMINGO ZANATEPEC                             CLC0006HDJS                                       
+002624700104084648000000076117.95526SANTOS REYES NOPALA                                 CLC0006HDJS                                       
+072610008975656640000000045849.70527SANTOS REYES PAPALO                                 CLC0006HDJS                                       
+072614002125490438000000022277.10528SANTOS REYES TEPEJILLO                              CLC0006HDJS                                       
+072614002125491194000000024063.65529SANTOS REYES YUCUNA                                 CLC0006HDJS                                       
+072610002152082486000000044891.25530SANTO TOMAS JALIEZA                                 CLC0006HDJS                                       
+072640002141844841000000024228.80531SANTO TOMAS MAZALTEPEC                              CLC0006HDJS                                       
+072613002152104921000000056218.45532SANTO TOMAS OCOTEPEC                                CLC0006HDJS                                       
+072621002141871040000000036891.30533SANTO TOMAS TAMAZULAPAN                             CLC0006HDJS                                       
+002622700707156179000000035726.65534SAN VICENTE COATLAN                                 CLC0006HDJS                                       
+002640700723429587000000027621.10535SAN VICENTE LACHIXIO                                CLC0006HDJS                                       
+072613002153504821000000018860.40536SAN VICENTE NUNU                                    CLC0006HDJS                                       
+002635700134205114000000082431.35537SILACAYOAPAM                                        CLC0006HDJS                                       
+072621002151493780000000025685.85538SITIO DE XITLAPEHUA                                 CLC0006HDJS                                       
+072610002141816252000000052806.45539SOLEDAD ETLA                                        CLC0006HDJS                                       
+072614002125487108000000088619.45540VILLA DE TAMAZULAPAM DEL PROGRESO                   CLC0006HDJS                                       
+072610002179244582000000029457.90541TANETZE DE ZARAGOZA                                 CLC0006HDJS                                       
+002622700748092687000000027884.05542TANICHE                                             CLC0006HDJS                                       
+072624002152103351000000028947.20543TATALTEPEC DE VALDES                                CLC0006HDJS                                       
+072610008967985222000000023937.10544TEOCOCUILCO DE MARCOS PEREZ                         CLC0006HDJS                                       
+012670001950326280000000172646.05545TEOTITLAN DE FLORES MAGON                           CLC0006HDJS                                       
+002638700647229464000000052423.10546TEOTITLAN DEL VALLE                                 CLC0006HDJS                                       
+072610002193851016000000026020.05547TEOTONGO                                            CLC0006HDJS                                       
+072610002176193348000000041724.55548TEPELMEME VILLA DE MORELOS                          CLC0006HDJS                                       
+072614002125492850000000134103.85549HEROICA VILLA TEZOATLAN DE SEGURA Y LUNA, CUNA DE   CLC0006HDJS                                       
+072610002162412428000000040275.85550SAN JERONIMO TLACOCHAHUAYA                          CLC0006HDJS                                       
+002638700614548194000000280463.75551TLACOLULA DE MATAMOROS                              CLC0006HDJS                                       
+012611001950409658000000026851.00552TLACOTEPEC PLUMAS                                   CLC0006HDJS                                       
+021633040570222957000000110005.55553TLALIXTAC DE CABRERA                                CLC0006HDJS                                       
+072640002139368915000000058306.55554TOTONTEPEC VILLA DE MORELOS                         CLC0006HDJS                                       
+072640002141842607000000038264.25555TRINIDAD ZAACHILA                                   CLC0006HDJS                                       
+072614002125484114000000019764.25556LA TRINIDAD VISTA HERMOSA                           CLC0006HDJS                                       
+014617655041879477000000193162.15557UNION HIDALGO                                       CLC0006HDJS                                       
+072640002141845413000000016000.20558VALERIO TRUJANO                                     CLC0006HDJS                                       
+014855655041926111000000085283.60559SAN JUAN BAUTISTA VALLE NACIONAL                    CLC0006HDJS                                       
+012610001949515224000000066961.50560VILLA DIAZ ORDAZ                                    CLC0006HDJS                                       
+044622093005282423000000087061.60561YAXE                                                CLC0006HDJS                                       
+012611001949676900000000027150.15562MAGDALENA YODOCONO DE PORFIRIO DIAZ                 CLC0006HDJS                                       
+044622093005332700000000022622.40563YOGANA                                              CLC0006HDJS                                       
+002610700779120789000000029363.25564YUTANDUCHI DE GUERRERO                              CLC0006HDJS                                       
+072610002134016344000000339404.80565VILLA DE ZAACHILA                                   CLC0006HDJS                                       
+072640002141841941000000028127.60566SAN MATEO YUCUTINDO                                 CLC0006HDJS                                       
+072614002125489258000000027597.90567ZAPOTITLAN LAGUNAS                                  CLC0006HDJS                                       
+072614002125483720000000029748.40568ZAPOTITLAN PALMAS                                   CLC0006HDJS                                       
+072610002168529386000000028700.30569SANTA INES DE ZARAGOZA                              CLC0006HDJS                                       
+002640700718970504000000160959.00570ZIMATLAN DE ALVAREZ                                 CLC0006HDJS                                       
